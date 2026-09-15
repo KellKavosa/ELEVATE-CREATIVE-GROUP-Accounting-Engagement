@@ -74,5 +74,4 @@ The goal of this engagement is to showcase practical bookkeeping accuracy, rigor
 
 ## 💼 Connect With Me
 *   **LinkedIn:** [www.linkedin.com/in/kellen-kavosa)
-*   **Email:** [kavosakellen@gmail.com](mailto:your.email@example.com)nths. Ensuring that revenue and expenses were recognized in the exact month they occurred (proper cutoff) was critical before closing the books.
-*   **The Resolution:** Implemented a rigorous month-by-month reconciliation checklist for both the bank and credit card accounts. This guaranteed that timing differences at the end of each month did not bleed into and distort the next month's financial performance.
+*   **Email:** [kavosakellen@gmail.com](mailto:your.email@example.com)
