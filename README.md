@@ -73,5 +73,5 @@ The goal of this engagement is to showcase practical bookkeeping accuracy, rigor
 ---
 
 ## 💼 Connect With Me
-*   **LinkedIn:** [www.linkedin.com/in/kellen-kavosa)
+*   **LinkedIn:** www.linkedin.com/in/kellen-kavosa
 *   **Email:** [kavosakellen@gmail.com](mailto:your.email@example.com)
