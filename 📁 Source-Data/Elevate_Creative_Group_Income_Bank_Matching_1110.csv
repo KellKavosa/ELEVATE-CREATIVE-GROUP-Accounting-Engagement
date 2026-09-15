@@ -1,0 +1,22 @@
+Bank Transaction Date,Bank Description,Amount,Deposit Account,Customer,Invoice Number,Payment Method,Match Type,Notes
+01/09/2026,DEPOSIT - Route 9 Coffee Roasters,"$1,200.00",1110 Operating Checking Account,Route 9 Coffee Roasters,INV-1016,Credit Card,Full Payment,"Card payment, settles through processor into checking"
+01/20/2026,DEPOSIT - Vantage Point Financial Advisors,"$2,500.00",1110 Operating Checking Account,Vantage Point Financial Advisors,INV-1011,ACH / Bank Transfer,Full Payment,Deposited via Undeposited Funds batching
+01/25/2026,DEPOSIT - Cedarbrook Family Dental,"$1,200.00",1110 Operating Checking Account,Cedarbrook Family Dental,INV-1008,ACH / Bank Transfer,Full Payment,Deposited via Undeposited Funds batching
+02/01/2026,DEPOSIT - Harborline Outfitters LLC,$750.00,1110 Operating Checking Account,Harborline Outfitters LLC,INV-1005,ACH / Bank Transfer,Full Payment,Deposited via Undeposited Funds batching
+02/08/2026,DEPOSIT - Meridian Tech Solutions,"$1,200.00",1110 Operating Checking Account,Meridian Tech Solutions,INV-1028,ACH / Bank Transfer,Full Payment,Deposited via Undeposited Funds batching
+02/09/2026,DEPOSIT - Route 9 Coffee Roasters,"$2,700.00",1110 Operating Checking Account,Route 9 Coffee Roasters,INV-1017,Credit Card,Full Payment,"Card payment, settles through processor into checking"
+02/10/2026,DEPOSIT - Northgate Property Group,"$1,800.00",1110 Operating Checking Account,Northgate Property Group,INV-1020,ACH / Bank Transfer,Full Payment,Deposited via Undeposited Funds batching
+02/12/2026,DEPOSIT - BlueWave Logistics,"$3,000.00",1110 Operating Checking Account,BlueWave Logistics,INV-1001,ACH / Bank Transfer,Partial Payment,Deposited via Undeposited Funds batching
+02/14/2026,DEPOSIT - BlueWave Logistics,"$1,200.00",1110 Operating Checking Account,BlueWave Logistics,INV-1002,ACH / Bank Transfer,Full Payment,Deposited via Undeposited Funds batching
+02/18/2026,DEPOSIT - Marlow & Finch Law Group,"$4,500.00",1110 Operating Checking Account,Marlow & Finch Law Group,INV-1014,ACH / Bank Transfer,Full Payment,Deposited via Undeposited Funds batching
+02/24/2026,DEPOSIT - Bright Path Learning Center,$510.00,1110 Operating Checking Account,Bright Path Learning Center,INV-1023,ACH / Bank Transfer,Full Payment,Deposited via Undeposited Funds batching
+02/25/2026,DEPOSIT - Vantage Point Financial Advisors,"$5,300.00",1110 Operating Checking Account,Vantage Point Financial Advisors,INV-1012,ACH / Bank Transfer,Full Payment,Deposited via Undeposited Funds batching
+03/05/2026,DEPOSIT - Helping Hands Community Fund,"$1,020.00",1110 Operating Checking Account,Helping Hands Community Fund,INV-1030,ACH / Bank Transfer,Full Payment,Deposited via Undeposited Funds batching
+03/06/2026,DEPOSIT - Cedarbrook Family Dental,"$1,675.00",1110 Operating Checking Account,Cedarbrook Family Dental,INV-1009,ACH / Bank Transfer,Full Payment,Deposited via Undeposited Funds batching
+03/10/2026,DEPOSIT - Route 9 Coffee Roasters,"$1,200.00",1110 Operating Checking Account,Route 9 Coffee Roasters,INV-1018,Credit Card,Full Payment,"Card payment, settles through processor into checking"
+03/11/2026,DEPOSIT - Harborline Outfitters LLC,"$2,300.00",1110 Operating Checking Account,Harborline Outfitters LLC,INV-1006,ACH / Bank Transfer,Full Payment,Deposited via Undeposited Funds batching
+03/15/2026,DEPOSIT - Willow & Vine Events,"$5,100.00",1110 Operating Checking Account,Willow & Vine Events,INV-1019,ACH / Bank Transfer,Full Payment,Deposited via Undeposited Funds batching
+03/19/2026,DEPOSIT - BlueWave Logistics,"$1,200.00",1110 Operating Checking Account,BlueWave Logistics,INV-1003,ACH / Bank Transfer,Full Payment,Deposited via Undeposited Funds batching
+03/20/2026,DEPOSIT - Northgate Property Group,"$1,500.00",1110 Operating Checking Account,Northgate Property Group,INV-1021,ACH / Bank Transfer,Partial Payment,Deposited via Undeposited Funds batching
+03/26/2026,DEPOSIT - Bright Path Learning Center,"$1,275.00",1110 Operating Checking Account,Bright Path Learning Center,INV-1024,ACH / Bank Transfer,Full Payment,Deposited via Undeposited Funds batching
+03/28/2026,DEPOSIT - Vantage Point Financial Advisors,"$2,500.00",1110 Operating Checking Account,Vantage Point Financial Advisors,INV-1013,ACH / Bank Transfer,Full Payment,Deposited via Undeposited Funds batching

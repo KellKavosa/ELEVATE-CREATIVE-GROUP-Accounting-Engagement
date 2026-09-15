@@ -1,0 +1,20 @@
+Payment Reference,Vendor,Bill Number,Bill Date,Payment Date,Payment Amount,Payment Method,Bank/Credit Card Account,Amount Applied
+VPMT-718,Ferretti Office Suites,BILL-2025,01/01/2026,01/03/2026,"$2,200.00",ACH,1110 Operating Checking Account,"$2,200.00"
+VPMT-701,Sarah Chen,BILL-2001,01/06/2026,01/06/2026,"$1,300.00",ACH,1110 Operating Checking Account,"$1,300.00"
+VPMT-712,Adobe Inc.,BILL-2018,01/05/2026,01/06/2026,$59.99,Credit Card,2300 Credit Card,$59.99
+VPMT-713,Microsoft 365,BILL-2019,01/05/2026,01/06/2026,$28.00,Credit Card,2300 Credit Card,$28.00
+VPMT-714,Comcast Business,BILL-2020,01/07/2026,01/08/2026,$180.00,Credit Card,2300 Credit Card,$180.00
+VPMT-704,Mira Kessler,BILL-2005,01/14/2026,01/15/2026,$400.00,ACH,1110 Operating Checking Account,$400.00
+VPMT-705,Mira Kessler,BILL-2006,01/15/2026,01/16/2026,"$1,300.00",ACH,1110 Operating Checking Account,"$1,300.00"
+VPMT-702,Sarah Chen,BILL-2002,01/20/2026,01/21/2026,"$1,625.00",ACH,1110 Operating Checking Account,"$1,625.00"
+VPMT-719,Ferretti Office Suites,BILL-2026,02/01/2026,02/03/2026,"$2,200.00",ACH,1110 Operating Checking Account,"$2,200.00"
+VPMT-715,Meridian CPA Group,BILL-2021,01/31/2026,02/12/2026,$900.00,ACH,1110 Operating Checking Account,$900.00
+VPMT-706,Mira Kessler,BILL-2007,02/13/2026,02/14/2026,$650.00,ACH,1110 Operating Checking Account,$650.00
+VPMT-707,Dylan Nolan,BILL-2009,02/17/2026,02/18/2026,$450.00,ACH,1110 Operating Checking Account,$450.00
+VPMT-703,Isabel Reyes,BILL-2003,02/07/2026,02/20/2026,$600.00,ACH,1110 Operating Checking Account,$600.00
+VPMT-709,Daniel Kim,BILL-2011,02/09/2026,02/22/2026,$850.00,ACH,1110 Operating Checking Account,$850.00
+VPMT-711,ProShoot Equipment Rentals,BILL-2015,02/16/2026,03/01/2026,$175.00,ACH,1110 Operating Checking Account,$175.00
+VPMT-710,Meta Ads,BILL-2013,02/10/2026,03/02/2026,$300.00,Credit Card,2300 Credit Card,$300.00
+VPMT-717,Osei & Park LLP,BILL-2024,02/05/2026,03/10/2026,$400.00,Check,1110 Operating Checking Account,$400.00
+VPMT-708,Leah Foster,BILL-2010,02/19/2026,03/12/2026,$750.00,ACH,1110 Operating Checking Account,$750.00
+VPMT-716,Meridian CPA Group,BILL-2022,02/28/2026,03/13/2026,$900.00,ACH,1110 Operating Checking Account,$900.00
